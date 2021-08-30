@@ -5,4 +5,4 @@ Some thing that I like about CS193.
 - I will learn basic terminal syntax and commands
 - I will get to show off that _I use arch btw_
 
-<sub>(Yes I use Arch Linux, no I'm not an arch elitist)</sub>
+<sub>(Yes I use Arch Linux, no I'm not an arch elitist lol)</sub>
